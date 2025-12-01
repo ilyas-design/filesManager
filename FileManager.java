@@ -2,7 +2,6 @@ package com.filemanager;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
 import java.io.*;
 
 public class FileManager {
